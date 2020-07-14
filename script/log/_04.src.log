@@ -1,0 +1,4 @@
+mkdir: cannot create directory `/mnt/NFS5': Permission denied
+/mnt/NFS2/zhangyanchao/tools/script/run_slurm_split.sh: line 14: /mnt/NFS5/multi_channel_20190316_04//ori_audio.lst: No such file or directory
+wc: /mnt/NFS5/multi_channel_20190316_04//ori_audio.lst: No such file or directory
+/mnt/NFS2/zhangyanchao/tools/script/run_slurm_split.sh: line 19: /4+1: syntax error: operand expected (error token is "/4+1")

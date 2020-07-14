@@ -1,0 +1,1 @@
+cut -f1 $ff/biaozhu_context.out |sed 's#.pcm$##' |while read line;do sox -t raw -c 1 -e signed-integer -b 16 -r 16000 ${line}.pcm tmp/`basename $line`.wav;sox tmp/`basename $line`.wav -r 8000 $ff/audio_8kwav/`basename $line`.wav;rm -f tmp/`basename $line`.wav ;done >xx.log 2>&1 &

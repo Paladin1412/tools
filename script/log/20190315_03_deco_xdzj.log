@@ -1,0 +1,29 @@
+prepare task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_000
+prepare task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_001
+prepare task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_002
+prepare task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_003
+start task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_003
+4
+start task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_004
+5
+start task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_005
+start task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_006
+007
+start task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_007
+log will be write in file: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj//decode_log/decode_xdzj_20190315_03.audio_part_004.log
+log will be write in file: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj//decode_log/decode_xdzj_20190315_03.audio_part_002.log
+log will be write in file: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj//decode_log/decode_xdzj_20190315_03.audio_part_000.log
+log will be write in file: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj//decode_log/decode_xdzj_20190315_03.audio_part_005.log
+log will be write in file: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj//decode_log/decode_xdzj_20190315_03.audio_part_001.log
+log will be write in file: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj//decode_log/decode_xdzj_20190315_03.audio_part_007.log
+log will be write in file: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj//decode_log/decode_xdzj_20190315_03.audio_part_006.log
+cat: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/*.out: No such file or directory
+decode done.
+end task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_007
+end task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_003
+end task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_000
+end task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_004
+end task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_001
+end task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_002
+end task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_005
+end task: /mnt/NFS1/zhangyanchao/src_mul_channel/multi_channel_20190315_03/decode_workspace_xdzj/audio_source/audio_part_006
